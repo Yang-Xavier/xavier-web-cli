@@ -1,0 +1,16 @@
+{
+  "name": "xavier-web-cli",
+  "version": "1.0.0",
+  "description": "cli for xavier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "xavier yang",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "webpack": "^4.29.3"
+  }
+}
